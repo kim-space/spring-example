@@ -8,11 +8,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-data-sample" />
+        <module name="spring-mybatis-sample" />
         <module name="spring-sample" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="spring-data-sample" target="1.8" />
+      <module name="spring-mybatis-sample" target="1.8" />
       <module name="spring-sample" target="1.8" />
     </bytecodeTargetLevel>
   </component>
