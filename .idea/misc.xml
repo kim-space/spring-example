@@ -3,6 +3,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/spring-data-sample" />
     <file type="web" url="file://$PROJECT_DIR$/spring-dynamic-datasource" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-fileupload" />
     <file type="web" url="file://$PROJECT_DIR$/spring-mybatis-sample" />
     <file type="web" url="file://$PROJECT_DIR$/spring-sample" />
   </component>
@@ -13,6 +14,7 @@
         <option value="$PROJECT_DIR$/spring-data-sample/pom.xml" />
         <option value="$PROJECT_DIR$/spring-mybatis-sample/pom.xml" />
         <option value="$PROJECT_DIR$/spring-dynamic-datasource/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-fileupload/pom.xml" />
       </list>
     </option>
   </component>

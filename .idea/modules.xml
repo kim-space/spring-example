@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/spring-data-sample/spring-data-sample.iml" filepath="$PROJECT_DIR$/spring-data-sample/spring-data-sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-dynamic-datasource/spring-dynamic-datasource.iml" filepath="$PROJECT_DIR$/spring-dynamic-datasource/spring-dynamic-datasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-fileupload/spring-fileupload.iml" filepath="$PROJECT_DIR$/spring-fileupload/spring-fileupload.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-mybatis-sample/spring-mybatis-sample.iml" filepath="$PROJECT_DIR$/spring-mybatis-sample/spring-mybatis-sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-sample/spring-sample.iml" filepath="$PROJECT_DIR$/spring-sample/spring-sample.iml" />
     </modules>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-fileupload:war">
+    <output-path>$PROJECT_DIR$/spring-fileupload/target</output-path>
+    <root id="archive" name="spring-fileupload.war">
+      <element id="artifact" artifact-name="spring-fileupload:war exploded" />
+    </root>
+  </artifact>
+</component>

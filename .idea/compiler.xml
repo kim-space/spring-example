@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-data-sample" />
         <module name="spring-dynamic-datasource" />
+        <module name="spring-fileupload" />
         <module name="spring-mybatis-sample" />
         <module name="spring-sample" />
       </profile>
@@ -16,6 +17,7 @@
     <bytecodeTargetLevel target="1.8">
       <module name="spring-data-sample" target="1.8" />
       <module name="spring-dynamic-datasource" target="1.8" />
+      <module name="spring-fileupload" target="1.8" />
       <module name="spring-mybatis-sample" target="1.8" />
       <module name="spring-sample" target="1.8" />
     </bytecodeTargetLevel>
